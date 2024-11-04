@@ -4,6 +4,7 @@
 *dataset: HAERAE-HUB/KMMLU* <br>
 *model: EleutherAI/polyglot-ko-1.3b*
 
+---
 
 ### data.py
 ㄴ four_to_choice: **네 개의 선택지를 하나의 리스트로 합쳐서 반환**
