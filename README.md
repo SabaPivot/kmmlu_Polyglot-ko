@@ -1,5 +1,6 @@
 ## KMMLU 데이터를 학습하여 추론
 
+### 사용 데이터셋 및 모델
 *dataset: HAERAE-HUB/KMMLU* <br>
 *model: EleutherAI/polyglot-ko-1.3b*
 
